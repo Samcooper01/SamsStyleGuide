@@ -100,7 +100,7 @@ Note: All sections are optional depending on the function's complexity.
  */
 ```
 
-- **File Header:** Each file, including the main file, should have a header like so:
+- **Main File Header:**
 
 ```c
 /*
@@ -117,6 +117,17 @@ Note: All sections are optional depending on the function's complexity.
  * 
  * Style:
  *  https://github.com/Samcooper01/StyleGuide/tree/main
+ */
+```
+
+- **Individual File Header:**
+
+```c
+/*
+ * File name: 
+ * Description:
+ *
+ * Notes:
  */
 ```
 
