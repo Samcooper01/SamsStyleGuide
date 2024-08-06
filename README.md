@@ -114,9 +114,6 @@ Note: All sections are optional depending on the function's complexity.
  *
  * Notes:
  *      None.
- *
- * Change Log:
- *      None.
  * 
  * Style:
  *  https://github.com/Samcooper01/StyleGuide/tree/main
