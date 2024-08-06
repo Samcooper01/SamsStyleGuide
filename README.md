@@ -1,4 +1,4 @@
-# Project Name
+# Sam's Style Guide
 
 ## Purpose
 
